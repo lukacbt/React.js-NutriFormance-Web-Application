@@ -1,0 +1,25 @@
+#pocetna{
+    text-align: center;
+    align-items: center;
+}
+
+#energija{
+    text-align: center;
+    border: 1px grey solid;
+    background-color: lightgrey;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 60px;
+}
+
+.errorMsg{
+    font-weight: bold;
+    color: rgb(99, 0, 16);
+    margin-left: 1%;
+}
+
+#unosBtn{
+    padding-top: 1%;
+}
+
+

@@ -1,0 +1,86 @@
+#webshop{
+    text-align: center;
+}
+
+#majice{
+    text-align: center;
+}
+
+
+.majica{
+    display: inline-block;
+    margin: 2%;
+    background-color: rgba(87, 87, 87, 0.192);
+    padding-bottom: 10px;
+}
+
+.slikaMajica:hover{
+    cursor: pointer;
+}
+
+#kosaricaBtn{
+    background-color: lightgrey;
+}
+
+#kosaricaBtn:hover{
+    cursor: pointer;
+    background-color: grey;
+    color: whitesmoke;
+}
+
+.kolicinaInput{
+    margin-left: 5px;
+    width: 35px;
+}
+
+#filter{
+    margin-top: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgba(66, 65, 65, 0.267);
+    padding-bottom: 2px;
+}
+
+#rasponCijene{
+    margin-right: 3%;
+}
+
+#odabir{
+    margin-right: 15px;
+}
+
+#rasponBar{
+    width: 200px;
+}
+
+#shopKosarica{
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.shopKosaricaNav:hover{
+    opacity: 80%;
+    cursor: pointer;
+}
+
+.velicinaBtn{
+    border: solid 1px black;
+    padding: 1px;
+    background-color: grey;
+    color: whitesmoke;
+    margin-right: 2px;
+}
+
+.velicinaBtn:hover{
+    border: solid 1px black;
+    padding: 1px;
+    background-color: grey;
+    color: whitesmoke;
+    margin-right: 2px;
+    opacity: 80%;
+    cursor: pointer;
+}
+
+#velicina{
+    margin-left: 5px;
+}

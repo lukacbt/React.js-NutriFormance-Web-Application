@@ -1,0 +1,14 @@
+#registracija{
+    text-align: center;
+    margin-top: 5%;
+}
+
+#registrirajMeBtn{
+    padding: 0 25%;
+}
+
+.regError{
+    font-weight: bold;
+    color: rgb(99, 0, 16);
+    margin-left: 1%;
+}
